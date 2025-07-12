@@ -35,19 +35,18 @@
     <td><strong>DB</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><strong>Studying</strong></td>
     <td>
       <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff">
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00">
@@ -55,7 +54,6 @@
       <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -64,12 +62,12 @@
       <a href="https://dongin97.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white">
       </a>
-      <a href="mailto:dongin971228@gmail.com">
-        <img src="https://img.shields.io/badge/dongin971228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
       <a href="https://www.notion.so/Git-Hub-Desktop-279da246fa0d4dbf86ffa47351db6a01">
         <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
       <a/>
+      <a href="mailto:dongin971228@gmail.com">
+        <img src="https://img.shields.io/badge/dongin971228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>
