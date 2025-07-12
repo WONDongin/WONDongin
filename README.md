@@ -1,7 +1,5 @@
 ### GitHub Stats
 
-## 🏆 GitHub Trophy
-
 [![Trophy](https://github-profile-trophy.vercel.app/?username=WONDongin&theme=flat&column=6&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
