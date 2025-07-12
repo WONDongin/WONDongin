@@ -1,5 +1,5 @@
 ### GitHub Stats
-[![Metrics](https://metrics.lecoq.io/WONDongin?template=classic&base=repositories&config.timezone=Asia%2FSeoul)](https://github.com/lowlighter/metrics)
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=WONDongin&theme=flat&column=6&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
