@@ -1,0 +1,23 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * 1" }]  # 매주 월요일 새로 생성
+  workflow_dispatch:                # 수동 실행 허용
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: WONDongin
+          base: repositories              # ✅ 전체 기준
+          config_timezone: Asia/Seoul
+
+          plugin_stars: yes
+          plugin_repositories: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_achievements: yes
