@@ -19,7 +19,6 @@
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a">
       <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
       <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black">
@@ -31,12 +30,6 @@
       <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
       <img src="https://img.shields.io/badge/JPA-5E35B1.svg?style=for-the-badge">
-      <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DB</strong></td>
-    <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
@@ -51,9 +44,6 @@
     <td>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff">
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00">
-      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white">
       <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
