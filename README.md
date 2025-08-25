@@ -1,7 +1,5 @@
 ### GitHub Stats
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=WONDongin&theme=flat&column=6&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=WONDongin&theme=oldie)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WONDongin&show_icons=true&hide_title=true&theme=default" height="165">
