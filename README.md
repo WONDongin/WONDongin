@@ -37,6 +37,12 @@
     <td><strong>Studying</strong></td>
     <td>
       <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <a href="https://www.acmicpc.net/user/bangsa100" target="_blank">
+        <img src="https://img.shields.io/badge/Baekjoon-0076C0?style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://solved.ac/profile/bangsa100" target="_blank">
+        <img src="https://img.shields.io/badge/Solved.ac-28A745?style=for-the-badge&logoColor=white">
+      </a>
     </td>
   </tr>
   <tr>
