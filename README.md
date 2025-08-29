@@ -1,71 +1,80 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WONDongin&show_icons=true&hide_title=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONDongin&layout=compact&theme=default" height="165">
-</p>
 
-[![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
 
-### Tech Stack&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=0e75b6&style=flat)
-<br/>
-
+### Tech Stack
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a">
-      <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-      <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black">
+      <img src="https://img.shields.io/badge/React-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/jQuery-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/JavaScript-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/JSP-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Sass-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/GSAP-48adff?style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-      <img src="https://img.shields.io/badge/JPA-5E35B1.svg?style=for-the-badge">
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Studying</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <a href="https://www.acmicpc.net/user/bangsa100" target="_blank">
-        <img src="https://img.shields.io/badge/Baekjoon-0076C0?style=for-the-badge&logoColor=white">
-      </a>
-      <a href="https://solved.ac/profile/bangsa100" target="_blank">
-        <img src="https://img.shields.io/badge/Solved.ac-28A745?style=for-the-badge&logoColor=white">
-      </a>
+      <img src="https://img.shields.io/badge/Java-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/JPA-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Spring%20Boot-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Spring%20Security-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/MySQL-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/QueryDSL-4872ff?style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+      <img src="https://img.shields.io/badge/Jira-5148ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/GitHub%20Desktop-5148ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-5148ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/VSCode-5148ff?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Studying</strong></td>
+    <td>
+      <a href="https://www.acmicpc.net/user/bangsa100" target="_blank">
+        <img src="https://img.shields.io/badge/Baekjoon-6b48ff?style=for-the-badge">
+      </a>
+      <a href="https://solved.ac/profile/bangsa100" target="_blank">
+        <img src="https://img.shields.io/badge/Solved.ac-6b48ff?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-9a48ff?style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td><strong>Contact</strong></td>
     <td>
       <a href="https://dongin97.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white">
+        <img src="https://img.shields.io/badge/Tistory-ce48ff?style=for-the-badge">
       </a>
-      <a href="https://www.notion.so/Git-Hub-Desktop-279da246fa0d4dbf86ffa47351db6a01">
-        <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
-      <a/>
       <a href="mailto:dongin971228@gmail.com">
-        <img src="https://img.shields.io/badge/dongin971228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/dongin971228@gmail.com-ce48ff?style=for-the-badge">
       </a>
     </td>
   </tr>
 </table>
 
-### Portfolio
+<br/>
+
+### Portfolio Projects &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
+
+<br/>
+
+### GitHub Stats 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WONDongin&show_icons=true&hide_title=true&theme=highcontrast" height="165">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONDongin&layout=compact&theme=highcontrast" height="165">
+</p>
+
+[![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
