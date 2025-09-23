@@ -1,5 +1,3 @@
-
-
 ### Tech Stack
 <table>
   <tr>
@@ -62,12 +60,21 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 ### Portfolio Projects &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
-
 <br/>
+
+### Algorithm Profile
+<a href="https://www.codewars.com/users/WONDongin">
+  <img src="https://www.codewars.com/users/WONDongin/badges/large" width="420" />
+</a><br/>
+<a href="https://leetcode.com/WONDongin">
+  <img src="https://leetcard.jacoblin.cool/WONDongin" height="165" />
+</a><br/>
+<a href="https://solved.ac/bangsa100">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bangsa100"  width="415"/>
+</a>
 
 ### GitHub Stats 
 <p align="left">
