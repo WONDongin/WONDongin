@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
-[![trophy](https://github-profile-trophy.vercel.app/?WONDongin=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Tech Stack
 <table>
   <tr>
