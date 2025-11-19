@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
-### Tech Stack
+### Tech Stack &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -64,16 +64,15 @@
 </table>
 <br/>
 
-### Portfolio Projects &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
-<br/>
+## Portfolio Projects 
+### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-blue?logo=github)](https://github.com/yourname/project-movie-seat-booking)
+> 영화 좌석 선택, 금액 계산, LocalStorage 기반 상태 저장 기능을 제공하는 JS 기반 영화 예매 UI 프로젝트입니다.
+
+
+
+<Br>
 
 ### Algorithm Profile
-<a href="https://www.codewars.com/users/WONDongin">
-  <img src="https://www.codewars.com/users/WONDongin/badges/large" width="420" />
-</a><br/>
-<a href="https://leetcode.com/WONDongin">
-  <img src="https://leetcard.jacoblin.cool/WONDongin" height="165" />
-</a><br/>
 <a href="https://solved.ac/bangsa100">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bangsa100"  width="415"/>
 </a>
