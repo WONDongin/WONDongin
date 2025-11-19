@@ -65,7 +65,7 @@
 <br/>
 
 ## Portfolio Projects 
-### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-blue?logo=github)](https://github.com/yourname/project-movie-seat-booking)
+### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-blue?logo=github)](https://github.com/WONDongin/project-movie-seat-booking)
 > 영화 좌석 선택, 금액 계산, LocalStorage 기반 상태 저장 기능을 제공하는 JS 기반 영화 예매 UI 프로젝트입니다.
 
 
