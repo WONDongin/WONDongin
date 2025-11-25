@@ -65,8 +65,13 @@
 <br/>
 
 ## Portfolio Projects 
+### 🪙 Stock Simulator &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-stock%20Simulator%20-yellow?logo=github)](https://github.com/WONDongin/project-stock-simulator)
+> 주가 변동 시뮬레이션, 매수·매도 로직, 캔들 차트 렌더링이 포함된 주식 시뮬레이터 프로젝트
+
+<Br>
+
 ### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-blue?logo=github)](https://github.com/WONDongin/project-movie-seat-booking)
-> 영화 좌석 선택, 금액 계산, LocalStorage 기반 상태 저장 기능을 제공하는 JS 기반 영화 예매 UI 프로젝트입니다.
+> 영화 좌석 선택, 금액 계산, LocalStorage 기반 상태 저장 기능을 제공하는 JS 기반 영화 예매 UI 프로젝트
 
 
 
