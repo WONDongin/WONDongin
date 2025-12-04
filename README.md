@@ -65,7 +65,10 @@
 <br/>
 
 ## Portfolio Projects 
-### 🗓️ Java Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
+### 🖥️ LMS System &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20System%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-system)
+> JSP Model 2(MVC) 아키텍처 기반으로 구현된 학사 관리 시스템(LMS)
+
+### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
 > 사용자별 이벤트 추가·조회·수정·삭제 기능을 제공하는 Java 일정 관리 프로젝트
 
 ### 🪙 Stock Simulator &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-stock%20Simulator%20-3aceac?logo=github)](https://github.com/WONDongin/project-stock-simulator)
