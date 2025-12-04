@@ -65,7 +65,7 @@
 <br/>
 
 ## Portfolio Projects 
-### 🖥️ LMS System &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20System%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-system)
+### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model 2(MVC) 아키텍처 기반으로 구현된 학사 관리 시스템(LMS)
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
