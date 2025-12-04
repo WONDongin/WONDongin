@@ -66,16 +66,18 @@
 
 ## Portfolio Projects 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
-> JSP Model 2(MVC) 아키텍처 기반으로 구현된 학사 관리 시스템(LMS)
+> JSP Model 2(MVC) + MyBatis 기반으로 구현된 학사 관리 시스템 <br>
+> 관리자 사용자 관리 및 DB 접근(DAO/Mapper) 로직 중심 백엔드 개발 프로젝트
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
-> 사용자별 이벤트 추가·조회·수정·삭제 기능을 제공하는 Java 일정 관리 프로젝트
+> Java 기반 개인 일정 관리 프로그램 <BR>
+> 사용자별 이벤트 추가·조회·수정·삭제 및 직렬화 기반 데이터 저장 기능 구현
 
 ### 🪙 Stock Simulator &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-stock%20Simulator%20-3aceac?logo=github)](https://github.com/WONDongin/project-stock-simulator)
-> 주가 변동 시뮬레이션, 매수·매도 로직, 캔들 차트 렌더링이 포함된 주식 시뮬레이터 프로젝트
+> 주가 변동 로직, 매수·매도 처리, 캔들 차트 렌더링이 포함된 JavaScript 기반 주식 시뮬레이터
 
 ### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-3aceac?logo=github)](https://github.com/WONDongin/project-movie-seat-booking)
-> 영화 좌석 선택, 금액 계산, LocalStorage 기반 상태 저장 기능을 제공하는 JS 기반 영화 예매 UI 프로젝트
+> 좌석 선택, 금액 계산, LocalStorage 상태 유지 기능을 갖춘 JavaScript 영화 예매 UI 프로젝트
 
 
 
