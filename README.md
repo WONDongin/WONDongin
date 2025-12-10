@@ -65,7 +65,7 @@
 <br/>
 
 ## Portfolio Projects 
-### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
+### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 지역 청년을 위한 정책 추천 · 커뮤니티 · 지역 기반 설문을 제공하는 통합 서비스 플랫폼 <br>
 > Spring Boot & Next.js(App Router) 기반의 OAuth2·JWT 인증 적용 <br>
 > Domain → Application → UI Layer로 구성된 모듈형 모놀리식 아키텍처 설계
