@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&desc=Spring%20Boot%20기반으로%20권한%20관리와%20자동화%20흐름을%20고려한%20백엔드%20시스템%20설계를%20지향하는%20개발자입니다.&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
 
-<p align="center">
-  <b>Spring Boot 기반으로 권한 관리와 자동화 흐름을 고려한</b><br/>
-  백엔드 시스템 설계를 지향하는 개발자입니다.
-</p>
 
 
 
