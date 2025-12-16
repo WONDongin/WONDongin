@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
+<p align="center">
+  <b>Spring Boot 기반으로 권한 관리와 자동화 흐름을 고려한</b><br/>
+  백엔드 시스템 설계를 지향하는 개발자입니다.
+</p>
+
+
+
 ### Tech Stack &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
 <table>
   <tr>
