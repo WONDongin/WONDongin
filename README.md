@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Studying</strong></td>
+    <td><strong>Sudying</strong></td>
     <td>
       <a href="https://www.acmicpc.net/user/bangsa100" target="_blank">
         <img src="https://img.shields.io/badge/Baekjoon-6b48ff?style=for-the-badge">
