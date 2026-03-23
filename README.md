@@ -73,9 +73,12 @@
 > 상담 신청 → 고객 관리 → 상담 기록 → 관리자/상담사 권한 분리를 중심으로 설계
 
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
-> 지역 청년을 위한 정책 추천 · 커뮤니티 · 지역 기반 설문을 제공하는 통합 서비스 플랫폼 <br>
-> Spring Boot & Next.js(App Router) 기반의 OAuth2·JWT 인증 적용 <br>
-> Domain → Application → UI Layer로 구성된 모듈형 모놀리식 아키텍처 설계
+> 멘토 신청 → 승인 → 활동 → 자동 승급까지 이어지는  
+> **운영 자동화 기반 커뮤니티 플랫폼**
+
+- OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
+- 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
+- Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model 2(MVC) + MyBatis 기반으로 구현된 학사 관리 시스템 <br>
