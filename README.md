@@ -6,97 +6,92 @@
 ### Tech Stack &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-48adff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/jQuery-48adff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/JavaScript-48adff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/JSP-48adff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Sass-48adff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/GSAP-48adff?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
     <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-4872ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/JPA-4872ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/Spring%20Boot-4872ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Spring%20Security-4872ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/MySQL-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/JPA-4872ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/QueryDSL-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Spring%20Security-4872ff?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4872ff?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-9a48ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Jenkins-9a48ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Git-9a48ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-9a48ff?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/React-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/JSP-48adff?style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Jira-5148ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/GitHub%20Desktop-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/VSCode-5148ff?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Studying</strong></td>
-    <td>
-      <a href="https://www.acmicpc.net/user/bangsa100" target="_blank">
-        <img src="https://img.shields.io/badge/Baekjoon-6b48ff?style=for-the-badge">
-      </a>
-      <a href="https://solved.ac/profile/bangsa100" target="_blank">
-        <img src="https://img.shields.io/badge/Solved.ac-6b48ff?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-9a48ff?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Contact</strong></td>
-    <td>
-      <a href="https://dongin97.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-ce48ff?style=for-the-badge">
-      </a>
-      <a href="mailto:dongin971228@gmail.com">
-        <img src="https://img.shields.io/badge/dongin971228@gmail.com-ce48ff?style=for-the-badge">
-      </a>
     </td>
   </tr>
 </table>
 <br/>
 
-## Portfolio Projects 
+### Highlight Projects
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 멘토 신청 → 승인 → 활동 → 자동 승급까지 이어지는  
-> **운영 자동화 기반 커뮤니티 플랫폼**
-> - OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
-> - 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
-> - Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
+> 운영 자동화 기반 커뮤니티 플랫폼
+
+- OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
+- 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
+- Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model2(MVC) 구조 기반 학사 관리 시스템  
-> **요청 흐름 설계 및 권한 제어를 중심으로 구현한 백엔드 프로젝트**
-> - Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
-> - MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
-> - 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
+> 요청 흐름 설계 및 권한 제어 구조 구현 프로젝트
+
+- Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
+- MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
+- 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
 
 ### ⌨️ CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
-> 교육 상담 과정을 운영하는 기관을 위한 운영형 CRM(Customer Relationship Management) 시스템 <BR>
-> 상담 신청 → 고객 관리 → 상담 기록 → 관리자/상담사 권한 분리를 중심으로 설계
+> 수동으로 관리되던 상담 및 고객 관리 프로세스를  
+> 체계화하기 위해 설계한 운영형 CRM 시스템
+
+- 상담 신청 → 고객 관리 → 상담 기록까지 이어지는 데이터 흐름 설계
+- 관리자/상담사 권한 분리를 통한 역할 기반 기능 분리 구현
+- 운영 관점에서 데이터 관리 효율성을 고려한 구조 설계
+
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
-> Java 기반 개인 일정 관리 프로그램 <BR>
-> 사용자별 이벤트 추가·조회·수정·삭제 및 직렬화 기반 데이터 저장 기능 구현
+> 사용자 일정 관리를 위한 Java 기반 프로그램
+
+- 이벤트 추가/조회/수정/삭제 기능 구현
+- 직렬화를 활용한 데이터 저장 구조 설계
 
 ### 🪙 Stock Simulator &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-stock%20Simulator%20-3aceac?logo=github)](https://github.com/WONDongin/project-stock-simulator)
-> 주가 변동 로직, 매수·매도 처리, 캔들 차트 렌더링이 포함된 JavaScript 기반 주식 시뮬레이터
+> 주식 거래 흐름을 반영한 JavaScript 기반 시뮬레이터
+
+- 매수/매도 처리 및 주가 변동 로직 구현
+- 캔들 차트 렌더링을 통한 시각화 기능 구현
 
 ### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-3aceac?logo=github)](https://github.com/WONDongin/project-movie-seat-booking)
-> 좌석 선택, 금액 계산, LocalStorage 상태 유지 기능을 갖춘 JavaScript 영화 예매 UI 프로젝트
+> 영화 예매 흐름을 구현한 JavaScript 기반 UI 프로젝트
 
-
+- 좌석 선택 및 금액 계산 로직 구현
+- LocalStorage 기반 상태 유지 처리
 
 <Br>
 
