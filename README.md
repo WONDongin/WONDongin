@@ -80,8 +80,11 @@
 > - Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
-> JSP Model 2(MVC) + MyBatis 기반으로 구현된 학사 관리 시스템 <br>
-> 관리자 사용자 관리 및 DB 접근(DAO/Mapper) 로직 중심 백엔드 개발 프로젝트
+> JSP Model2(MVC) 구조 기반 학사 관리 시스템  
+> 요청 흐름 설계 및 권한 제어를 중심으로 구현한 백엔드 프로젝트
+> - Servlet + Filter 기반 요청 흐름 및 접근 제어 구조 설계
+> - MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
+> - 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
 > Java 기반 개인 일정 관리 프로그램 <BR>
