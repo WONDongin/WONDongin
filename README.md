@@ -75,10 +75,9 @@
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 멘토 신청 → 승인 → 활동 → 자동 승급까지 이어지는  
 > **운영 자동화 기반 커뮤니티 플랫폼**
-
-- OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
-- 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
-- Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
+> - OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
+> - 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
+> - Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model 2(MVC) + MyBatis 기반으로 구현된 학사 관리 시스템 <br>
