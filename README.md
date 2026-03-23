@@ -68,10 +68,6 @@
 <br/>
 
 ## Portfolio Projects 
-### ⌨️ CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
-> 교육 상담 과정을 운영하는 기관을 위한 운영형 CRM(Customer Relationship Management) 시스템 <BR>
-> 상담 신청 → 고객 관리 → 상담 기록 → 관리자/상담사 권한 분리를 중심으로 설계
-
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 멘토 신청 → 승인 → 활동 → 자동 승급까지 이어지는  
 > **운영 자동화 기반 커뮤니티 플랫폼**
@@ -81,10 +77,14 @@
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model2(MVC) 구조 기반 학사 관리 시스템  
-> 요청 흐름 설계 및 권한 제어를 중심으로 구현한 백엔드 프로젝트
-> - Servlet + Filter 기반 요청 흐름 및 접근 제어 구조 설계
+> **요청 흐름 설계 및 권한 제어를 중심으로 구현한 백엔드 프로젝트**
+> - Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
 > - MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
 > - 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
+
+### ⌨️ CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
+> 교육 상담 과정을 운영하는 기관을 위한 운영형 CRM(Customer Relationship Management) 시스템 <BR>
+> 상담 신청 → 고객 관리 → 상담 기록 → 관리자/상담사 권한 분리를 중심으로 설계
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
 > Java 기반 개인 일정 관리 프로그램 <BR>
