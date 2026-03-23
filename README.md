@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&desc=Spring%20Boot%20기반으로%20데이터%20흐름과%20운영%20자동화를%20설계하는%20백엔드%20개발자입니다.&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&desc=Spring%20Boot%20기반으로%20운영%20자동화와%20데이터%20흐름을%20설계하는%20백엔드%20개발자입니다.&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
 
 
 
