@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin`s%20GitHub%20:D&desc=Spring%20Boot%20기반으로%20운영%20자동화와%20데이터%20흐름을%20설계하는%20백엔드%20개발자입니다.&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dongin%20Won%27s%20GitHub&desc=%EA%B6%8C%ED%95%9C%20%EA%B4%80%EB%A6%AC%EC%99%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%9D%90%EB%A6%84%20%EC%84%A4%EA%B3%84%EC%97%90%20%EA%B0%95%EC%A0%90%EC%9D%B4%20%EC%9E%88%EB%8A%94%20Spring%20Boot%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=35&fontAlignY=40&descSize=14&descAlign=50&descAlignY=55&animation=twinkling&height=250)
 
+> 화면 경험을 이해하고 서버와 운영까지 연결하는 백엔드 개발자입니다.  
+> Java / Spring Boot 기반으로 권한 관리, 자동화 로직, 데이터 흐름 설계에 집중하고 있습니다.
 
-
+<br/>
 
 ### Tech Stack &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
 <table>
