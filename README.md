@@ -68,7 +68,7 @@
 - MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
 - 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
 
-### ⌨️ CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
+### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
 > 수동으로 관리되던 상담 및 고객 관리 프로세스를  
 > 체계화하기 위해 설계한 운영형 CRM 시스템
 
