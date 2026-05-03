@@ -112,3 +112,6 @@
 
 [![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
+
+
+![graph](https://raw.githubusercontent.com/WONDongin/ps-record/HEAD/graph.png)
