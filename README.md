@@ -4,8 +4,6 @@
 > Java / Spring Boot 기반으로 권한 관리, 자동화 로직, 데이터 흐름 설계에 집중하고 있습니다.
 
 
-![graph](./graph.svg)
-
 <br/>
 
 ### Tech Stack &nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=WONDongin&label=Profile%20views&color=ff488f&style=flat)
