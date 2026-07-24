@@ -95,15 +95,17 @@
 - 좌석 선택 및 금액 계산 로직 구현
 - LocalStorage 기반 상태 유지 처리
 
-<Br>
+<br/>
 
 ### Algorithm Profile
 <a href="https://solved.ac/bangsa100">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bangsa100"  width="415"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bangsa100"  width="100%"/>
 </a>
 
-[![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
+[![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 ![graph](https://raw.githubusercontent.com/WONDongin/ps-record/HEAD/graph.png)
