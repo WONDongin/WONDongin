@@ -102,13 +102,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bangsa100"  width="415"/>
 </a>
 
-### GitHub Stats 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WONDongin&show_icons=true&hide_title=true&theme=highcontrast" height="165">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WONDongin&layout=compact&theme=highcontrast" height="165">
-</p>
-
 [![WONDongin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WONDongin&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
