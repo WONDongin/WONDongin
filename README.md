@@ -53,6 +53,13 @@
 <br/>
 
 ### Highlight Projects
+### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-3aceac?logo=github)](https://github.com/WONDongin/zipbob_app)
+> 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
+> 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
+
+- Flutter 기반 홈·전체 메뉴·레시피·조건 추천 화면 구성
+- 카테고리 단일 선택과 음식 특징 다중 선택 UI 구현
+
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 정책 추천 + 커뮤니티 + 지역 기반 설문 서비스
 
