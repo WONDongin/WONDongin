@@ -13,9 +13,9 @@
     <td>
       <img src="https://img.shields.io/badge/Java-4872ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/Spring%20Boot-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Spring%20Security-4872ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/JPA-4872ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/QueryDSL-4872ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Spring%20Security-4872ff?style=for-the-badge">
     </td>
   </tr>
   <tr>
@@ -30,7 +30,6 @@
     <td>
       <img src="https://img.shields.io/badge/AWS-9a48ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/Jenkins-9a48ff?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Git-9a48ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/GitHub%20Actions-9a48ff?style=for-the-badge">
     </td>
   </tr>
@@ -39,12 +38,22 @@
     <td>
       <img src="https://img.shields.io/badge/JavaScript-48adff?style=for-the-badge">
       <img src="https://img.shields.io/badge/React-48adff?style=for-the-badge">
+       <img src="https://img.shields.io/badge/TypeScript-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Next.js-48adff?style=for-the-badge">
       <img src="https://img.shields.io/badge/JSP-48adff?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-48adff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Dart-48adff?style=for-the-badge">
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Git-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/Jira-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/VSCode-5148ff?style=for-the-badge">
