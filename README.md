@@ -22,6 +22,7 @@
     <td><strong>Database</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4872ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge">
     </td>
   </tr>
   <tr>
