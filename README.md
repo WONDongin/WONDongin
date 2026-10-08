@@ -57,6 +57,7 @@
       <img src="https://img.shields.io/badge/Jira-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-5148ff?style=for-the-badge">
       <img src="https://img.shields.io/badge/VSCode-5148ff?style=for-the-badge">
+      <img src="https://img.shields.io/badge/DBeaver-5148ff?style=for-the-badge">
     </td>
   </tr>
 </table>
