@@ -65,11 +65,12 @@
 
 ### Highlight Projects
 ### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-3aceac?logo=github)](https://github.com/WONDongin/zipbob_app)
-> 오늘 먹을 메뉴를 고르고 레시피를 탐색하는 Flutter 모바일 앱  
-> 음식 카테고리와 특징을 선택하는 추천 화면을 구현 중인 협업 프로젝트
+> 메뉴 추천과 레시피 탐색을 제공하는 Flutter · Spring Boot 모바일 서비스  
+> 앱·관리자 웹 개발부터 자동 테스트까지 진행한 2인 협업 프로젝트
 
-- Flutter 기반 홈·전체 메뉴·레시피·조건 추천 화면 구성
-- 카테고리 단일 선택과 음식 특징 다중 선택 UI 구현
+- JWT 인증·이메일 인증·비밀번호 재설정 구현
+- 관리자 메뉴 관리·이미지 업로드 및 트랜잭션 처리
+- PostgreSQL 통합 테스트·HTTP 테스트·GitHub Actions CI 구축
 
 ### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
 > 정책 추천 + 커뮤니티 + 지역 기반 설문 서비스
