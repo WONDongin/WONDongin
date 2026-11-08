@@ -91,9 +91,9 @@
 > 수동으로 관리되던 상담 및 고객 관리 프로세스를  
 > 체계화하기 위해 설계한 운영형 CRM 시스템
 
-- 상담 신청 → 고객 관리 → 상담 기록까지 이어지는 데이터 흐름 설계
-- 관리자/상담사 권한 분리를 통한 역할 기반 기능 분리 구현
-- 운영 관점에서 데이터 관리 효율성을 고려한 구조 설계
+- 고객 정보와 상담 이력을 분리한 데이터 구조 설계
+- JWT 인증 및 관리자·상담사 역할별 접근 제어
+- GitHub Actions 기반 테스트·빌드 자동화
 
 
 ### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
