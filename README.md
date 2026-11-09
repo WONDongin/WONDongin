@@ -79,14 +79,6 @@
 - 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
 - Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
-### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
-> JSP Model2(MVC) 구조 기반 학사 관리 시스템  
-> 요청 흐름 설계 및 권한 제어 구조 구현 프로젝트
-
-- Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
-- MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
-- 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
-
 ### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
 > 수동으로 관리되던 상담 및 고객 관리 프로세스를  
 > 체계화하기 위해 설계한 운영형 CRM 시스템
@@ -95,24 +87,13 @@
 - JWT 인증 및 관리자·상담사 역할별 접근 제어
 - GitHub Actions 기반 테스트·빌드 자동화
 
+### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
+> JSP Model2(MVC) 구조 기반 학사 관리 시스템  
+> 요청 흐름 설계 및 권한 제어 구조 구현 프로젝트
 
-### 🗓️ Calendar Manager &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Calendar%20Manager%20-3aceac?logo=github)](https://github.com/WONDongin/project-calendar-manager)
-> 사용자 일정 관리를 위한 Java 기반 프로그램
-
-- 이벤트 추가/조회/수정/삭제 기능 구현
-- 직렬화를 활용한 데이터 저장 구조 설계
-
-### 🪙 Stock Simulator &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-stock%20Simulator%20-3aceac?logo=github)](https://github.com/WONDongin/project-stock-simulator)
-> 주식 거래 흐름을 반영한 JavaScript 기반 시뮬레이터
-
-- 매수/매도 처리 및 주가 변동 로직 구현
-- 캔들 차트 렌더링을 통한 시각화 기능 구현
-
-### 🎬 Movie Seat Booking &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Movie%20Seat%20Booking-3aceac?logo=github)](https://github.com/WONDongin/project-movie-seat-booking)
-> 영화 예매 흐름을 구현한 JavaScript 기반 UI 프로젝트
-
-- 좌석 선택 및 금액 계산 로직 구현
-- LocalStorage 기반 상태 유지 처리
+- Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
+- MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
+- 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
 
 <br/>
 
