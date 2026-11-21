@@ -72,13 +72,6 @@
 - 관리자 메뉴 관리·이미지 업로드 및 트랜잭션 처리
 - PostgreSQL 통합 테스트·HTTP 테스트·GitHub Actions CI 구축
 
-### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
-> 정책 추천 + 커뮤니티 + 지역 기반 설문 서비스
-
-- OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
-- 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
-- Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
-
 ### ⌨️ DIHS CRM &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-CRM%20-3aceac?logo=github)](https://github.com/WONDongin/project-crm)
 > 수동으로 관리되던 상담 및 고객 관리 프로세스를  
 > 체계화하기 위해 설계한 운영형 CRM 시스템
@@ -86,6 +79,13 @@
 - 고객 정보와 상담 이력을 분리한 데이터 구조 설계
 - JWT 인증 및 관리자·상담사 역할별 접근 제어
 - GitHub Actions 기반 테스트·빌드 자동화
+
+### ⌨️ Jibangyoung Groupware &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Jibangyoung%20Groupware%20-3aceac?logo=github)](https://github.com/WONDongin/project-jibangyoung-groupware)
+> 정책 추천 + 커뮤니티 + 지역 기반 설문 서비스
+
+- OAuth2 + JWT 기반 인증 및 Role 기반 접근 제어
+- 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
+- Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
 ### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
 > JSP Model2(MVC) 구조 기반 학사 관리 시스템  
