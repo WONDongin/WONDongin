@@ -64,6 +64,10 @@
 <br/>
 
 ### Highlight Projects
+### 🏡 도화마을 &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Dohwa%20Village-3aceac?logo=github)](https://github.com/WONDongin/dohwa-village)
+> 캐릭터로 2D 도트 마을을 돌아다니며 건물마다 다른 콘텐츠를 만나는 웹 놀이터  
+> React · Spring Boot 기반으로 개발 중인 2인 협업 프로젝트
+
 ### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-3aceac?logo=github)](https://github.com/WONDongin/zipbob_app)
 > 메뉴 추천과 레시피 탐색을 제공하는 Flutter · Spring Boot 모바일 서비스  
 > 앱·관리자 웹 개발부터 자동 테스트까지 진행한 2인 협업 프로젝트
@@ -95,10 +99,6 @@
 - MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
 - 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
 
-### 🏡 도화마을 &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Dohwa%20Village-3aceac?logo=github)](https://github.com/WONDongin/dohwa-village)
-> 캐릭터로 2D 도트 마을을 돌아다니며 건물마다 다른 콘텐츠를 만나는 웹 놀이터  
-> React · Spring Boot 기반으로 개발 중인 2인 협업 프로젝트
-> 
 <br/>
 
 ### Algorithm Profile
