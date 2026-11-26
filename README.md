@@ -68,6 +68,14 @@
 > 캐릭터로 2D 도트 마을을 돌아다니며 건물마다 다른 콘텐츠를 만나는 웹 놀이터  
 > React · Spring Boot 기반으로 개발 중인 2인 협업 프로젝트
 
+### 🎬 ShortsFlow AI &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-ShortsFlow%20AI-3aceac?logo=github)](https://github.com/WONDongin/shortsflow-ai)
+> MP4를 업로드하면 자막이 포함된 쇼츠와 썸네일을 생성하는 React · FastAPI 영상 편집 서비스  
+> 음성 추출부터 결과 다운로드까지 n8n으로 연결한 숏폼 제작 자동화 프로젝트
+
+- FFmpeg 음성·프레임 추출, Whisper 자막 생성, GPT·Mock 기반 쇼츠 구간 분석 구현
+- n8n 웹훅으로 편집 단계 자동화, React에서 진행·완료·실패 상태 표시 및 결과 다운로드 구현
+- PostgreSQL 영상 메타데이터·분석 결과·워크플로우 상태 저장 및 동일 영상의 중복 실행 방지
+
 ### 🍚 Zipbob PICK &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-Zipbob%20PICK-3aceac?logo=github)](https://github.com/WONDongin/zipbob_app)
 > 메뉴 추천과 레시피 탐색을 제공하는 Flutter · Spring Boot 모바일 서비스  
 > 앱·관리자 웹 개발부터 자동 테스트까지 진행한 2인 협업 프로젝트
