@@ -99,14 +99,6 @@
 - 활동 로그 기반 멘토 점수 산정 및 자동 승급 시스템 구현
 - Domain → Application → UI Layer 구조의 모듈형 모놀리식 설계
 
-### 🖥️ LMS Backend &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Repo-LMS%20Backend%20-3aceac?logo=github)](https://github.com/WONDongin/project-lms-backend)
-> JSP Model2(MVC) 구조 기반 학사 관리 시스템  
-> 요청 흐름 설계 및 권한 제어 구조 구현 프로젝트
-
-- Filter → Controller → Service → DAO → Mapper 구조의 요청 흐름 설계
-- MyBatis 기반 DAO / Mapper 분리로 DB 접근 계층 설계
-- 학생/교수/관리자 Role 기반 인증 및 기능 분리 구현
-
 <br/>
 
 ### Algorithm Profile
